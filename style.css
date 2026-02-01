@@ -218,6 +218,10 @@ body{
     border-radius: 9.36px;
 }
 
+.icon-link:hover {    transform: translateY(-6px);
+    box-shadow: 2px 5px gray;
+    transition: 0.3s;}
+
 /* Адаптив */
 @media (max-width: 980px){
   .hero-grid{ grid-template-columns: 1fr; padding-bottom: 8px; min-height:480px; }
