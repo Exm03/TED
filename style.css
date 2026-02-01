@@ -51,7 +51,6 @@ body{
     linear-gradient(90deg, rgba(0,0,0,0.65) 0%, rgba(0,0,0,0.45) 45%, rgba(0,0,0,0.6) 100%),
     url('images/hero-bg.jpg') no-repeat right center / cover;
   padding: 48px 0 32px;
-  border: 12px solid #111; /* визуальная рамка похожая на макет */
   color: var(--text-light);
 }
 
