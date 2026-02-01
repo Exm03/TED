@@ -10,7 +10,7 @@
   */
   const LESSONS = {
     "2026-02-01": { title: "[SŁUCH] Talent do języków to mit", type: "new", href: "lesson.html?id=2026-02-01", icon: "🎧" },
-    "2026-02-02": { title: "[CZYT]Talent do języków to mit", type: "new", href: "lesson.html?id=2026-02-02", icon: "📄" },
+    "2026-02-02": { title: "[CZYT] Talent do języków to mit", type: "new", href: "lesson.html?id=2026-02-02", icon: "📄" },
     "2026-02-03": { title: "[GRAM] Talent do języków to mit", type: "new", href: "lesson.html?id=2026-02-03", icon: "📚" },
     "2026-02-04": { title: "[PIS] Talent do języków to mit", type: "new", href: "lesson.html?id=2026-02-04", icon: "✍" },
     "2026-02-05": { title: "[SŁUCH] Cyfrowy obrzęk mózgu", type: "new", href: "lesson.html?id=2026-02-05", icon: "🎧" },
