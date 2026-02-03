@@ -10,13 +10,13 @@
   */
   const LESSONS = {
     "2026-02-01": { title: "[SŁUCH] Talent do języków to mit", type: "new", href: "lesson.html?id=2026-02-01", icon: "🎧" },
-    "2026-02-02": { title: "[CZYT] Talent do języków to mit", type: "new", href: "lesson.html?id=2026-02-02", icon: "📄" },
-    "2026-02-03": { title: "[GRAM] Talent do języków to mit", type: "new", href: "lesson.html?id=2026-02-03", icon: "📚" },
-    "2026-02-04": { title: "[PIS] Talent do języków to mit", type: "new", href: "lesson.html?id=2026-02-04", icon: "✍" },
-    "2026-02-05": { title: "[SŁUCH] Cyfrowy obrzęk mózgu", type: "new", href: "lesson.html?id=2026-02-05", icon: "🎧" },
-    "2026-02-06": { title: "[CZYT] Cyfrowy obrzęk mózgu", type: "new", href: "lesson.html?id=2026-02-06", icon: "📄" },
-    "2026-02-07": { title: "[GRAM] Cyfrowy obrzęk mózgu", type: "new", href: "lesson.html?id=2026-02-07", icon: "📚" },
-    "2026-02-08": { title: "[PIS] Cyfrowy obrzęk mózgu", type: "new", href: "lesson.html?id=2026-02-08", icon: "✍" },
+    "2026-02-03": { title: "[CZYT] Talent do języków to mit", type: "new", href: "lesson.html?id=2026-02-03", icon: "📄" },
+    "2026-02-05": { title: "[GRAM] Talent do języków to mit", type: "new", href: "lesson.html?id=2026-02-05", icon: "📚" },
+    "2026-02-07": { title: "[PIS] Talent do języków to mit", type: "new", href: "lesson.html?id=2026-02-07", icon: "✍" },
+    "2026-02-09": { title: "[SŁUCH] Cyfrowy obrzęk mózgu", type: "new", href: "lesson.html?id=2026-02-09", icon: "🎧" },
+    "2026-02-11": { title: "[CZYT] Cyfrowy obrzęk mózgu", type: "new", href: "lesson.html?id=2026-02-11", icon: "📄" },
+    "2026-02-13": { title: "[GRAM] Cyfrowy obrzęk mózgu", type: "new", href: "lesson.html?id=2026-02-13", icon: "📚" },
+    "2026-02-15": { title: "[PIS] Cyfrowy obrzęk mózgu", type: "new", href: "lesson.html?id=2026-02-15", icon: "✍" },
   };
   /* ========================================= */
 
