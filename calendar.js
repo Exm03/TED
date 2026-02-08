@@ -39,25 +39,25 @@
   C1: "https://docs.google.com/forms/d/1ycxcD9WfAX5fc-RnDLi0vg4BkfvuEIcXl9Ja-DzT3wY/edit?usp=drivesdk",
   ALL: "https://docs.google.com/forms/d/1ofZlJtKiVk1Ryr1XIwDtCML5vnh9y9HsAMRhVfdqWWM/edit?usp=drivesdk"
 }, icon: "✍" },
-    "2026-02-09": { title: "[SŁUCH] Cyfrowy obrzęk mózgu", type: "new", href: "lesson.html?id=2026-02-09", videoId: "96gGoITaeG4", vocabHref: "",  exercises: {
+    "2026-02-09": { title: "[SŁUCH] Cyfrowy obrzęk mózgu", type: "new", href: "lesson.html?id=2026-02-09", videoId: "rzwnYM0s1b4", vocabHref: "",  exercises: {
   B1: "https://docs.google.com/forms/d/1-O_R3QBtxhKg06s0ZbOp_nGal1U0zXmRGXjMU8UFKxk/edit?usp=drivesdk",
   B2: "https://docs.google.com/forms/d/1IEmXa4UKQV4zvmQHgJi0AvAKIMKU-wUiw0XpjCFFr1M/edit?usp=drivesdk",
   C1: "https://docs.google.com/forms/d/1Qg1Irj6ydwBl20DYfVvmaHcDOpdQp8Ynlbikd-3-Czw/edit?usp=drivesdk",
   ALL: "https://docs.google.com/forms/d/1-GiAp0qTVyw36upl4qzLF5nrBP_hPhZMZMjjr15HsQA/edit?usp=drivesdk"
 }, icon: "🎧" },
-    "2026-02-11": { title: "[CZYT] Cyfrowy obrzęk mózgu", type: "new", href: "lesson.html?id=2026-02-11", videoId: "96gGoITaeG4", vocabHref:"lesson6-vocab.html" , exercises: {
+    "2026-02-11": { title: "[CZYT] Cyfrowy obrzęk mózgu", type: "new", href: "lesson.html?id=2026-02-11", videoId: "rzwnYM0s1b4", vocabHref:"lesson6-vocab.html" , exercises: {
   B1: "https://docs.google.com/forms/d/1-O_R3QBtxhKg06s0ZbOp_nGal1U0zXmRGXjMU8UFKxk/edit?usp=drivesdk",
   B2: "https://docs.google.com/forms/d/1IEmXa4UKQV4zvmQHgJi0AvAKIMKU-wUiw0XpjCFFr1M/edit?usp=drivesdk",
   C1: "https://docs.google.com/forms/d/1Qg1Irj6ydwBl20DYfVvmaHcDOpdQp8Ynlbikd-3-Czw/edit?usp=drivesdk",
   ALL: "https://docs.google.com/forms/d/1-GiAp0qTVyw36upl4qzLF5nrBP_hPhZMZMjjr15HsQA/edit?usp=drivesdk"
 } , icon:"📄"},
-    "2026-02-13": { title: "[GRAM] Cyfrowy obrzęk mózgu", type: "new", href: "lesson.html?id=2026-02-13", videoId: "96gGoITaeG4", vocabHref: "",  exercises: {
+    "2026-02-13": { title: "[GRAM] Cyfrowy obrzęk mózgu", type: "new", href: "lesson.html?id=2026-02-13", videoId: "rzwnYM0s1b4", vocabHref: "",  exercises: {
   B1: "https://docs.google.com/forms/d/1-O_R3QBtxhKg06s0ZbOp_nGal1U0zXmRGXjMU8UFKxk/edit?usp=drivesdk",
   B2: "https://docs.google.com/forms/d/1IEmXa4UKQV4zvmQHgJi0AvAKIMKU-wUiw0XpjCFFr1M/edit?usp=drivesdk",
   C1: "https://docs.google.com/forms/d/1Qg1Irj6ydwBl20DYfVvmaHcDOpdQp8Ynlbikd-3-Czw/edit?usp=drivesdk",
   ALL: "https://docs.google.com/forms/d/1-GiAp0qTVyw36upl4qzLF5nrBP_hPhZMZMjjr15HsQA/edit?usp=drivesdk"
 }, icon: "📚" },
-    "2026-02-15": { title: "[PIS] Cyfrowy obrzęk mózgu", type: "new", href: "lesson.html?id=2026-02-15", videoId: "96gGoITaeG4", vocabHref: "", exercises: {
+    "2026-02-15": { title: "[PIS] Cyfrowy obrzęk mózgu", type: "new", href: "lesson.html?id=2026-02-15", videoId: "rzwnYM0s1b4", vocabHref: "", exercises: {
   B1: "https://docs.google.com/forms/d/1-O_R3QBtxhKg06s0ZbOp_nGal1U0zXmRGXjMU8UFKxk/edit?usp=drivesdk",
   B2: "https://docs.google.com/forms/d/1IEmXa4UKQV4zvmQHgJi0AvAKIMKU-wUiw0XpjCFFr1M/edit?usp=drivesdk",
   C1: "https://docs.google.com/forms/d/1Qg1Irj6ydwBl20DYfVvmaHcDOpdQp8Ynlbikd-3-Czw/edit?usp=drivesdk",
